@@ -6,4 +6,8 @@ No, he will die
 
 oh, seriously? that sucks!
 
+<<<<<<< HEAD
 gogogogoogoo
+=======
+hahaha you're right. the story is terrible
+>>>>>>> f336f8e33c63de1e00e45df83a9a6c47d602f01c
